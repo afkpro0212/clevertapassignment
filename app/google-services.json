@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077441931940",
+    "project_id": "clevertapassignment-95e4c",
+    "storage_bucket": "clevertapassignment-95e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077441931940:android:57ebdbe27a3ec03691d431",
+        "android_client_info": {
+          "package_name": "com.clevertap.myassignmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077441931940-5k7l0k60cm84md78a5rgqt7n53q47nd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh41B0971mvuME9LA3KDTfT0mt9KhSfI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077441931940-5k7l0k60cm84md78a5rgqt7n53q47nd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
